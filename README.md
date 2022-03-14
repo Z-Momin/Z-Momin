@@ -2,13 +2,16 @@ Hello,
 
 My name is Zafir Momin and I am currently completing my Masters in Data Science at NYU at the Center for Data Science. I am currently looking for internships and full time opportunities in Data Science and Machine Learning roles. 
 
-I am a Python veteran and am familiar with data visualization and wrangling packages such as Pandas, Matplotlib, Seaborn. I have extensive knowledge of machine learning and deep learning frameworks, (i.e. SciKit-Learn, PyTorch, Tensorflow etc). I am knowledgeable in Big Data as I have the skillset to work with large datasets, database systems, SQL, and High Performance Computing (HPC) on NYU, Flatiron Institute, and GCP clusters. I also have experience with PySpark and Hadoop.
+I am a Python veteran and am familiar with data visualization and wrangling packages such as Pandas, Matplotlib, Seaborn. I have extensive knowledge of machine learning and deep learning frameworks, (i.e. SciKit-Learn, PyTorch, Tensorflow etc). I am knowledgeable in Big Data as I have the skillset to work with large datasets, database systems, SQL, and High Performance Computing (HPC) on clusters. I also have experience with PySpark and Hadoop.
 
 Some projects that I would like to highlight are featured below:
 
-Introduction to Data Science Final Project: [Skynet's Racetrack](https://github.com/Z-Momin/IDS---Final-Project) - [[Paper]](https://github.com/Z-Momin/IDS---Final-Project/blob/master/IDSFinalPaper.pdf)
+[Skynet's Racetrack](https://github.com/Z-Momin/IDS---Final-Project) - [[Paper]](https://github.com/Z-Momin/IDS---Final-Project/blob/master/IDSFinalPaper.pdf)
+  Using the Car Racing environemnt from OpenAI Gym, we used machine learning and deep learning to create models that learn how to drive around the track from human players. We achieved 75% and 99% accuracy on our best machine learning and best deep learning models respectively.  
 
-Big Data Final Project: [Million Song Dataset Rec Sys](https://github.com/Z-Momin/MSD-RecSys) - [[Paper]](https://github.com/Z-Momin/MSD-RecSys/blob/main/FinalReport.pdf)
+[Million Song Dataset Rec Sys](https://github.com/Z-Momin/MSD-RecSys) - [[Paper]](https://github.com/Z-Momin/MSD-RecSys/blob/main/FinalReport.pdf)
+
+[Applications of Neural Radiance Fields in Astronomy - Paper](https://github.com/Z-Momin/Capstone/blob/main/FinalReport.pdf)
 
 My relevant coursework includes:
 - Probability and Statistics
