@@ -1,6 +1,6 @@
 Hello,
 
-My name is Zafir Momin and I am currently completing my Masters in Data Science at NYU at the Center for Data Science. I am currently looking for internships and full time opportunities in Data Science and Machine Learning roles. 
+My name is Zafir Momin and I am currently completing my Masters in Data Science at NYU at the Center for Data Science. I am a Data Scientist at Astraea Inc. 
 
 I am a Python veteran and am familiar with data visualization and wrangling packages such as Pandas, Matplotlib, Seaborn. I have extensive knowledge of machine learning and deep learning frameworks, (i.e. SciKit-Learn, PyTorch, Tensorflow etc). I am knowledgeable in Big Data as I have the skillset to work with large datasets, database systems, SQL, and High Performance Computing (HPC) on clusters. I also have experience with PySpark and Hadoop.
 
