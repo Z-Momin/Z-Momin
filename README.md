@@ -13,18 +13,6 @@ Some projects that I would like to highlight are featured below:
 
 [Applications of Neural Radiance Fields in Astronomy - Paper](https://github.com/Z-Momin/Capstone/blob/main/FinalReport.pdf)
 
-My relevant coursework includes:
-- Probability and Statistics
-- Programming for Data Science
-- Introduction to Data Science
-- Machine Learning
-- Big Data
-- Text as Data in R
-- Deep Learning
-- ML Tools and Techniques
-- Introduction to Database Systems
-- Introduction to Deep Learning Systems
-
 Please let me know if you have any questions. You can reach me at my personal email: *zm2114@nyu.edu*. 
 
 <!---
