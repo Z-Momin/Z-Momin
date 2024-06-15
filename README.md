@@ -1,8 +1,8 @@
-Hello,
+Thanks for dropping in! 
 
-My name is Zafir Momin and I am a currently a Data Scientist at Astraea Inc. I have a B.S. in Physics and a M.S. in Data Science from NYU. 
+My name is [Zafir Momin](https://www.linkedin.com/in/zafir-momin/) and I am a Data Scientist with 2 YOE. I have a B.S. in Physics and a M.S. in Data Science from NYU. 
 
-I am a Python veteran and am familiar with data visualization and wrangling packages such as Pandas, Matplotlib, Seaborn. I have extensive knowledge of machine learning and deep learning frameworks, (i.e. SciKit-Learn, PyTorch, Tensorflow etc). I am knowledgeable in Big Data as I have the skillset to work with large datasets, database systems, SQL, and High Performance Computing (HPC) on clusters. I also have experience with PySpark and Hadoop.
+I am a Python veteran and am familiar with data visualization and wrangling packages such as Pandas, Matplotlib, Seaborn. I have extensive knowledge of machine learning and deep learning frameworks, (i.e. SciKit-Learn, PyTorch, Tensorflow etc). I am knowledgeable in Big Data as I have the skillset to work with large datasets, database systems, SQL, and High Performance Computing (HPC) and ML cloud platforms such as Azure and AWS. I also have experience with Spark, PySpark and Hadoop. My professional work is not featured on my personal github but feel free to reach out to me if you'd like to learn more!
 
 Some projects that I would like to highlight are featured below:
 
